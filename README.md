@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there! I'm June, an Atlanta, GA based software engineer.
 
-<!--
-**junetaylr/junetaylr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+Some of my recent projects include: [www.junetaylr.com](https://www.junetaylr.com)
 
-Here are some ideas to get you started:
+Most recently, I've been building in Visual Studio Code, Xcode, Figma, and Adobe.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Constantly learning new tools to improve my craft and expand my knowledge  
+to develop innovative websites and mobile applications.
+
+## Contact
+
+If you'd like to connect, feel free to reach out to me at: **junestaylr@gmail.com**
+
+
