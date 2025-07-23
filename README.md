@@ -1,16 +1,12 @@
 Hi there! I'm June, an Atlanta, GA based software engineer.
 
-## Projects
-Some of my recent projects include: [www.junetaylr.com](https://www.junetaylr.com)
+## Projects  
+Some of my recent work: [junetaylr.com](https://www.junetaylr.com)
 
-Lately, I’ve been building with Visual Studio Code, Xcode, Figma, and Adobe — constantly exploring new tools like Swift, React, and Machine Learning.
-I'm passionate about creating thoughtful, innovative websites and mobile apps that push ideas forward.
+Currently building with tools like Visual Studio Code, Xcode, Figma, and Adobe.  
+Exploring Swift, React, and Machine Learning to craft innovative, user-focused websites and mobile apps.
 
-## Contact
-
-If you'd like to connect, feel free to reach out:
-
-Email: **junestaylr@gmail.com**
-
-LinkedIn: [linkedin.com/in/junetaylr](https://www.linkedin.com/in/junetaylr/)
-
+## Contact  
+Let’s connect:  
+📧 **junestaylr@gmail.com**  
+💼 [LinkedIn →](https://www.linkedin.com/in/junetaylr/)
