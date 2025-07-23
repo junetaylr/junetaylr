@@ -8,7 +8,7 @@ I'm passionate about creating thoughtful, innovative websites and mobile apps th
 
 ## Contact
 
-If you'd like to connect, feel free to reach out to me at: 
+If you'd like to connect, feel free to reach out:
 
 Email: **junestaylr@gmail.com**
 
