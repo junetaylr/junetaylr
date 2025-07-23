@@ -8,5 +8,5 @@ Exploring Swift, React, and Machine Learning to craft innovative, user-focused w
 
 ## Contact  
 Let’s connect:  
-📧 **junestaylr@gmail.com**  
-💼 [LinkedIn →](https://www.linkedin.com/in/junetaylr/)
+Email: **junestaylr@gmail.com**  
+LinkedIn: [linkedin.com/in/junetaylr](https://www.linkedin.com/in/junetaylr/)
