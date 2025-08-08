@@ -9,10 +9,10 @@ Diving into new worlds and experiences keeps me inspired, knowledgeable, and mot
 I use the following programming tools and languages   
 to craft user-focused websites and mobile apps.   
 
-Programming Tools:  
+- Programming Tools:  
 Visual Studio Code, Xcode, Figma, and Adobe.  
 
-Programming Languages:  
+- Programming Languages:  
 HTML, CSS, React, JavaScript, TypeScript, C+,     
 Swift, SwiftUI, Artificial Intelligence, and Machine Learning.
 
