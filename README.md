@@ -1,6 +1,6 @@
 ## About Me
 My name is June.  
-Software Engineer,based in Atlanta, GA.  
+Software Engineer, based in Atlanta, GA.  
 I consider myself a visionary + optimist + builder.  
 Love studying architecture, playing a game of chess, poker, exploring art museums, & movies.    
 Diving into new worlds and experiences keeps me inspired, knowledgeable, and motivated.  
