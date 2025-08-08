@@ -6,15 +6,20 @@ Love studying architecture, playing a game of chess, poker, exploring art museum
 Diving into new worlds and experiences keeps me inspired, knowledgeable, and motivated.  
 
 ## Skills
-I use the following programming tools and languages   
-to craft user-focused websites and mobile apps.   
+Programming tools and languages I learned & utiliziled, 
+to help build innovative, user-focused websites and mobile apps.   
 
 - Programming Tools:  
 Visual Studio Code, Xcode, Figma, and Adobe.  
 
 - Programming Languages:  
-HTML, CSS, React, JavaScript, TypeScript, C+,     
-Swift, SwiftUI, Artificial Intelligence, and Machine Learning.
+HTML, CSS, JavaScript, TypeScript, Swift, C++.  
+
+- Frameworks: 
+React & SwiftUi.
+
+- Specialties
+Artificial Intelligence & Machine Learning. 
 
 ## Personal Goals
 - Have Fun
