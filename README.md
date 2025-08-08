@@ -7,7 +7,7 @@ Diving into new worlds and experiences keeps me inspired, knowledgeable, and mot
 
 ## Skills
 Programming tools and languages I learned & utiliziled, 
-to help build innovative, user-focused websites and mobile apps.   
+to help build innovative user-focused websites and mobile apps.   
 
 - Programming Tools:  
 Visual Studio Code, Xcode, Figma, and Adobe.  
