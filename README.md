@@ -21,10 +21,10 @@ TypeScript, Artificial Intelligence, and Machine Learning.
 - Seek Opportunity
 - Have Fun
 
-## Contact  
-Feel free to connect & chat:   
+## Contact   
+Feel free to contact me:   
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="28"/>](mailto:junestaylr@gmail.com)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"/>](https://www.linkedin.com/in/junetaylr/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="28"/>](mailto:junestaylr@gmail.com)    [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"/>](https://www.linkedin.com/in/junetaylr/)
 
 
 
