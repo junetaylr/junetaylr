@@ -1,5 +1,3 @@
-## About Me
-
 My name is June, Based in Atlanta, GA.  
 I consider myself a visionary + optimist + engineer + builder + creator.    
 Love playing chess, poker, studying architecture, exploring art museums, & movies.    
