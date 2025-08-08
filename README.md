@@ -1,17 +1,26 @@
-Hi there! I'm June, an Atlanta, GA based software engineer.
+## About Me
 
-## Projects  
-Some of my recent work: 
+My name is June, Based in Atlanta, GA.  
+I consider myself a visionary + optimist + engineer + builder + creator.    
+Love playing chess, poker, studying architecture, exploring art museums, & movies.    
+Diving into new worlds and experiences keeps me inspired, knowledgeable, and motivated.  
 
-website: [junetaylr.com](https://www.junetaylr.com)
+## Skills
+I use the following to craft, user-focused websites and mobile apps.  
 
-hello world: https://junetaylr.github.io/helloworld/
+Programming Tools:  
+Visual Studio Code, Xcode, Figma, and Adobe.  
 
-mini golf game: https://junetaylr.github.io/mini-golf/
+Programming Languages:  
+Swift, SwiftUI, React, HTML, CSS, JavaScript,   
+TypeScript, Artificial Intelligence, and Machine Learning.
 
-Currently building with tools like Visual Studio Code, Xcode, Figma, and Adobe.  
-Exploring Swift, SwiftUi, React, HTML, CSS, and Machine Learning to craft innovative, user-focused websites and mobile apps.
+## Personal Goals
+- Own my Greatness
+- Create, Build, & Serve
+- Seek Opportunity
+- Have Fun
 
 ## Contact  
-Feel free to connect and chat: **junestaylr@gmail.com**  
+Feel free to connect and chat: [LinkedIn](https://www.linkedin.com/in/junetaylr/)
 
