@@ -16,10 +16,10 @@ Swift, SwiftUI, React, HTML, CSS, JavaScript, C+
 TypeScript, Artificial Intelligence, and Machine Learning.
 
 ## Personal Goals
-- Own my Greatness
-- Create, Build, & Serve Others
-- Seek Opportunity
 - Have Fun
+- Seek Opportunity
+- Own My Greatness
+- Create, Build, & Serve Others
 
 ## Contact   
 Feel free to contact me:   
