@@ -22,5 +22,10 @@ TypeScript, Artificial Intelligence, and Machine Learning.
 - Have Fun
 
 ## Contact  
-Feel free to connect and chat: [LinkedIn](https://www.linkedin.com/in/junetaylr/)
+Feel free to connect & chat:   
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="28"/>](mailto:junestaylr@gmail.com)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28"/>](https://www.linkedin.com/in/junetaylr/)
+
+
+
 
