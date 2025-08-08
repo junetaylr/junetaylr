@@ -12,8 +12,8 @@ Programming Tools:
 Visual Studio Code, Xcode, Figma, and Adobe.  
 
 Programming Languages:  
-Swift, SwiftUI, React, HTML, CSS, JavaScript, C+   
-TypeScript, Artificial Intelligence, and Machine Learning.
+HTML, CSS, React, JavaScript, TypeScript, C+,     
+Swift, SwiftUI, Artificial Intelligence, and Machine Learning.
 
 ## Personal Goals
 - Have Fun
