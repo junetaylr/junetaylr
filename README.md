@@ -17,7 +17,7 @@ TypeScript, Artificial Intelligence, and Machine Learning.
 
 ## Personal Goals
 - Own my Greatness
-- Create, Build, & Serve
+- Create, Build, & Serve Others
 - Seek Opportunity
 - Have Fun
 
