@@ -15,10 +15,10 @@ Visual Studio Code, Xcode, Figma, and Adobe.
 - Programming Languages:  
 HTML, CSS, JavaScript, TypeScript, Swift, C++.  
 
-- Frameworks: 
+- Frameworks:  
 React & SwiftUi.
 
-- Specialties
+- Specialties:  
 Artificial Intelligence & Machine Learning. 
 
 ## Personal Goals
