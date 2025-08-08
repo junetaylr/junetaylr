@@ -17,8 +17,8 @@ Swift, SwiftUI, Artificial Intelligence, and Machine Learning.
 
 ## Personal Goals
 - Have Fun
+- Be Great
 - Seek Opportunity
-- Own My Greatness
 - Create, Build, & Serve Others
 
 ## Contact   
