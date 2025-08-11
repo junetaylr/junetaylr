@@ -13,7 +13,7 @@ to help build innovative, user-friendly websites and mobile applications.
 Visual Studio Code, Xcode, Figma, and Adobe.  
 
 - Programming Languages:  
-HTML, CSS, JavaScript, TypeScript, Swift, C++.  
+HTML, CSS, JavaScript, TypeScript, Swift, Java.  
 
 - Frameworks:  
 React & SwiftUi.
